@@ -4,8 +4,8 @@ This is walkthrough of how to take a codepen io pen and transfer to a Github rep
 
 
 **Tools Used**
-    *codepen.io
-    *Github
-        *repositories
-        *codespaces
-    *Netlify
+    * codepen.io
+    * Github
+        * repositories
+        * codespaces
+    * Netlify
