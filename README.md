@@ -1,2 +1,2 @@
-# code-commit-deploy-
+# code-commit-deploy
 placeholder text
